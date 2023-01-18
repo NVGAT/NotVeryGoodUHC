@@ -1,0 +1,7 @@
+name: NotVeryGoodUHC
+version: '${project.version}'
+main: com.notverygoodatthis.notverygooduhc.NotVeryGoodUHC
+api-version: 1.19
+authors: [ NotVeryGoodAtThis ]
+description: Simple UHC plugin for Minecraft 1.19
+website: https://www.youtube.com/@NotVeryGoodAtThis
